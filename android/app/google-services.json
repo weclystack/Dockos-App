@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262041871036",
+    "project_id": "dockos-1ceef",
+    "storage_bucket": "dockos-1ceef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262041871036:android:a5d54c23f35761748026b9",
+        "android_client_info": {
+          "package_name": "com.example.dockos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262041871036-g1f4oktejrhrq050o8qqpih225lnieu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE8AaVVrkX-ko6KXXsbWPnfkYix0CW3QQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262041871036-g1f4oktejrhrq050o8qqpih225lnieu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
