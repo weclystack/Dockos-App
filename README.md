@@ -1,4 +1,4 @@
-# dockos
+# Dockos
 
 Dockos App adalah aplikasi yang membantu pengguna mencari dan memesan rumah atau hotel di lokasi yang diinginkan dengan fitur pencarian, booking, dan review. Aplikasi ini juga memiliki fitur notifikasi dan sosial media untuk memberikan informasi terbaru kepada pengguna.
 
