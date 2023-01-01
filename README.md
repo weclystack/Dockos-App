@@ -1,6 +1,6 @@
 # Dockos
 
-Dockos App adalah aplikasi yang membantu pengguna mencari dan memesan rumah atau hotel di lokasi yang diinginkan dengan fitur pencarian, booking, dan review. Aplikasi ini juga memiliki fitur notifikasi dan sosial media untuk memberikan informasi terbaru kepada pengguna.
+Dockos App is an application that helps users search for and book houses or hotels in the desired location with search, booking, and review features. This app also has notification and social media features to provide users with the latest information.
 
 ## Getting Started
 
